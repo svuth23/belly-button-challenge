@@ -1,23 +1,26 @@
-# belly-button-challenge
-Background
+# Challenge-14
+
+# Belly-button-challenge.
+
+## Background:
+
 In this assignment, we will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels.The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ### Data source:
 URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
 
 
-### external useful links :
-
-Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/Links to an external site.
-
 ### Relevant libraries.
-
+D3.JS
+plotly.js
  
 ## Project : 
  Task divided into steps:
 
-1. Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web- 
-   Visualizations/02-Homework/samples.json.
+1.Use the D3 library to read in samples.json from the URL
+
+https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
+
 
 2.Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
@@ -56,11 +59,25 @@ Adapt the Gauge Chart from https://plot.ly/javascript/gauge-charts/Links to an e
 
 
 
-    6. create Gauge chart .
+   6. create Gauge chart
 
-    ![newplot (4)](https://github.com/svuth23/belly-button-challenge/assets/136966712/13370a4b-2c12-4af0-b0c4-59e7091e49f5)
+   # Gauge chart 
+   
+     ![newplot (4)](https://github.com/svuth23/belly-button-challenge/assets/136966712/99de81a4-c888-41c3-b981-2f053b1a3b6e)
 
 
-The related data Updates all the plots when a new sample is selected. Additionally, created layout/web page : using html 
+The related data Updates all the plots when a new sample is selected and website page is: 
 
 ## https://svuth23.github.io/belly-button-challenge/
+
+
+
+### external useful links :
+
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+ 
+https://plot.ly/javascript/gauge-charts/
+
+https://d3js.org/d3.v7.min.js
+
+https://cdn.plot.ly/plotly-latest.min.js
