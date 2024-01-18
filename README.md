@@ -60,9 +60,8 @@ https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Inter
 
    # Gauge chart 
    
-     ![newplot (4)](https://github.com/svuth23/belly-button-challenge/assets/136966712/99de81a4-c888-41c3-b981-2f053b1a3b6e)
-
-
+   ![newplot (4)](https://github.com/svuth23/belly-button-challenge/assets/136966712/99de81a4-c888-41c3-b981-2f053b1a3b6e)
+   
 The related data Updates all the plots when a new sample is selected and website page is: 
 
 ## https://svuth23.github.io/belly-button-challenge/
